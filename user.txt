@@ -1,0 +1,5 @@
+admin, adm1n
+jedi, force
+mando, grogu
+jedi, 
+ichigo, bleach
